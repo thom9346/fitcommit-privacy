@@ -51,7 +51,7 @@ FitCommit requires the following permissions:
 - Usage: Data retrieval and authentication processes
 
 ## 6. Contact
-For privacy concerns, contact: [Your Email Address]
+For privacy concerns, contact: fitcommitextension@gmail.com
 
 ## 7. Changes to This Policy
 We reserve the right to update this privacy policy at any time. Users will be notified of any material changes through the extension.
